@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jcavelez
+- 👀 I’m interested in software development and cloud computing.
+- 🌱 I’m currently learning NodeJS, ElectronJS, AWS, Project Manamgemnt.
+- 📫 How to reach me? jcavelez@gmail.com
