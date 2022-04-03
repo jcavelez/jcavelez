@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @jcavelez
-- 👀 I’m interested in software development and cloud computing.
+- 📍  IT Engeneer based on Medellín, Colombia. Working on different projects for Latin America and USA.
+- 🛠️ Frameworks and languages: NodeJS, Javascript, Electron, Python, .NET.
 - 🌱 I’m currently learning NodeJS, ElectronJS, AWS, Project Manamgemnt.
 - 📫 How to reach me? jcavelez@gmail.com
